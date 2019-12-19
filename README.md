@@ -59,4 +59,4 @@ Refer media/mvvm_data_flow.png for diagram explanation.
 * To check UI test cases, right click on com.bindlish.nytimes (androidTest) folder and choose 'Run tests in nytimes'.
 * With coverage option will also show the coverage of the test cases in project.
 
-##### You can right back to me if you have any suggestion which can improve the architecture and how we can increase the test cases coverage.
+##### You can write back to me if you have any suggestion which can improve the architecture and how we can increase the test cases coverage.
