@@ -25,6 +25,7 @@ import javax.inject.Inject
 /**
  * An activity representing a list of news.
  */
+
 class NewsListActivity : AppCompatActivity() {
 
     private var twoPane: Boolean = false
